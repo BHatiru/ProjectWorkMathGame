@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartMenu/Menu.unity
+    guid: 8fa06dd125afe0849ba48cdd323b966c
+  - enabled: 1
+    path: Assets/Scenes/GamingLevel/LivingRoom.unity
+    guid: 84e061d06b71bbb42bf92c9bade1a2d1
+  - enabled: 1
+    path: Assets/Scenes/GamingLevel/Level1.unity
+    guid: 6d3541c613371c941b1559d13d3c696a
+  - enabled: 1
+    path: Assets/Scenes/GamingLevel/Level2.unity
+    guid: 86ef0543df303be44b037b44feb5ad4c
+  - enabled: 1
+    path: Assets/Scenes/GamingLevel/BasementStart.unity
+    guid: 1fe48e3a434aaab4d8b50900a68ba5d7
+  - enabled: 1
+    path: Assets/Scenes/GamingLevel/BasementEmpty.unity
+    guid: 32c2f150cf4a09e4eb1662b6972d88d6
+  - enabled: 1
+    path: Assets/Scenes/GamingLevel/BasementEnd.unity
+    guid: dfb0ec175f5b9b34ba15e0889857d4cf
+  - enabled: 1
+    path: Assets/Scenes/GamingLevel/BasementBasic1.unity
+    guid: 1b35203517e7a7044b82eb53d2ce01db
+  m_configObjects: {}

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "594854411406",
+    "firebase_url": "https://mathgamedatabase.firebaseio.com",
+    "project_id": "mathgamedatabase",
+    "storage_bucket": "mathgamedatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594854411406:android:a432a20cabe6ea8dbd9ddf",
+        "android_client_info": {
+          "package_name": "com.BodauTech.MathDungeonTest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594854411406-9otn2timl67it5o29qjsp7qq5ihhke5o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6ESgt_HV7tiSOiUbEneY1Lf3jB2mFV6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594854411406-9otn2timl67it5o29qjsp7qq5ihhke5o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
